@@ -1,0 +1,8 @@
+{
+  "api_status": "operational",
+  "primary_endpoint": "https://api.shoonya.com/NorenWClientTP/",
+  "websocket_primary": "wss://api.shoonya.com/NorenWSTP/",
+  "websocket_fallback": "wss://api.shoonya.com/NorenWSTP/",
+  "latency_nodes": {
+  }
+}
