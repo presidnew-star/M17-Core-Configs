@@ -1,0 +1,9 @@
+{
+  "trading": [
+    {"tradingDate": "2026-01-26", "description": "Republic Day"},
+    {"tradingDate": "2026-03-20", "description": "Ramzan Id"},
+    {"tradingDate": "2026-04-14", "description": "Dr. Baba Saheb Ambedkar Jayanti"}
+  ],
+  "special_sessions": [],
+  "system_patches": {}
+}
